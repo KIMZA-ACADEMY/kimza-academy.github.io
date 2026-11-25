@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.kimza_academy.twa",
+        "sha256_cert_fingerprints": ["3D:01:21:99:78:B0:B6:42:C0:DA:E2:14:C3:41:0C:30:44:5D:02:14:98:BF:09:0A:86:89:53:66:F6:2D:22:8D"]
+      }
+    }]
